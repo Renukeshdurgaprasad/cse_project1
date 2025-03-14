@@ -32,14 +32,14 @@ This project is executed using the **command line (CMD)**.
 - To compile the package:
   ```sh
   javac -d . filename.java
-## ** run Commands :**
+## **run Commands :**
 - to run the main  code:
   ```sh
    java fileName
 - to run the package :
   ```sh
    java packageName.fileName
-## ** Important Notes: **
--✅ Ensure that package names and file names are correctly referenced while executing the project.
--✅ Use the correct directory structure when working with Java packages to avoid compilation errors.
--✅ Make sure Java is properly installed and configured on your system before running the commands.
+## **Important Notes:**
+- ✅ Ensure that package names and file names are correctly referenced while executing the project.
+- ✅ Use the correct directory structure when working with Java packages to avoid compilation errors.
+- ✅ Make sure Java is properly installed and configured on your system before running the commands.
