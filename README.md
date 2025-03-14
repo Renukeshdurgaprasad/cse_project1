@@ -30,11 +30,14 @@ This project is executed using the **command line (CMD)**.
   ```sh
   javac filename.java
 - To compile the package:
+  ```sh
   javac -d . filename.java
 ## ** run Commands :**
 - to run the main  code:
+  ```sh
    java fileName
 - to run the package :
+  ```sh
    java packageName.fileName
 ## ** Important Notes: **
 -✅ Ensure that package names and file names are correctly referenced while executing the project.
