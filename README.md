@@ -73,6 +73,13 @@ javac -d . Details.java Methods.java Owner.java
 # Compile main class
 javac VrsecAtm.java
 ```
+## **run Commands :**
+- to run the main  code:
+  ```sh
+   java fileName
+- to run the package :
+  ```sh
+   java packageName.fileName
 
 ### Workflow
 - **Name**: ATM Application
